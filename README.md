@@ -10,10 +10,11 @@
 <br>
 
 </div>
-
-- IOS/Android Developer
-- Dart, Flutter, FlutterFlow expert
-- AI , Full Stack Developer , Bot expert
+<p align="center">
+ IOS/Android Developer <br/>
+ Dart, Flutter, FlutterFlow expert <br/>
+ AI , Full Stack Developer , Bot expert <br/>
+</p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/light.svg#gh-light-mode-only)
