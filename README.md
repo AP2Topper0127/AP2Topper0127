@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/light.svg#gh-light-mode-only)
+{![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/light.svg#gh-light-mode-only)}
 </p>
 
 <p align="center">
