@@ -11,6 +11,10 @@
 
 </div>
 
+- IOS/Android Developer
+- Dart, Flutter, FlutterFlow expert
+- AI , Full Stack Developer , Bot expert
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/light.svg#gh-light-mode-only)
 
