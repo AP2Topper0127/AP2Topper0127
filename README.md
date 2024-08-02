@@ -11,3 +11,4 @@
 
 
 ![](https://komarev.com/ghpvc/?username=AP2Topper0127)
+![Follow me on GitHub!](https://img.shields.io/github/followers/AP2Topper0127?)
