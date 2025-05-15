@@ -12,6 +12,7 @@
 </div>
 <p align="center">
   - IOS/Android Developer -  <br/>
+  - ionic React, React Native expert -  <br/>
   - Dart, Flutter, FlutterFlow expert -  <br/>
   - AI , Bot , Game Developer -  <br/>
 </p>
